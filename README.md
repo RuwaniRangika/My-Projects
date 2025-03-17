@@ -1,6 +1,6 @@
 # My Projects
 
-## Project 1: Invoice Processing Automation
+## Project 1: 
 - **Description**:Automates invoice processing using UiPath, Robot Framework, and SQL.
 - **Link**: https://github.com/RuwaniRangika/Invoice-automation
 
